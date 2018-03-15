@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="capcuantos">quantity</string>
+    <string name="orderbtn">order</string>
+    <string name="thenumber">0</string>
+    <string name="capcost">price</string>
+    <string name="dollamt">$0</string>
+    <string name="plusbtn">+</string>
+    <string name="minusbtn">-</string>
+</resources>

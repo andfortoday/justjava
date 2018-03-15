@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="btnchangevalw">48dp</dimen>
+    <dimen name="btnvchangevalh">48dp</dimen>
+    <dimen name="spFromLeft">16dp</dimen>
+    <dimen name="spFromOther">16dp</dimen>
+    <dimen name="spFromTop">16dp</dimen>
+</resources>
